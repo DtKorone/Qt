@@ -1,2 +1,2 @@
-# Qt
-qt项目
+# Huffman_compress
+基于QT实现的采用哈夫曼编码的压缩软件
